@@ -1,6 +1,6 @@
-<!-- ---
+---
   usemathjax: true
---- -->
+---
 
 Given a finite set of probability density functions $p_1(x), p_1(x), \dots, p_n(x)$ and weights $w_1, w_2, \dots, w_n$ such that $w_i \geq 0$ and $\sum_i w_i = 1$. The mixture model $f$ can be represented as $$f(x) = \sum\limits_{i=1}^n w_ip_i(x).$$
 
