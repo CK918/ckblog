@@ -42,4 +42,4 @@ defaults:
       tags: Other
       
 # Build settings
-  markdown: kramdown
+markdown: kramdown
