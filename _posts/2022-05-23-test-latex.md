@@ -13,6 +13,6 @@ We call a (finite) real number $\alpha$ is simple order if $\alpha > 0$ and $\al
 For any simple order $\alpha$, the Rényi divergence of probability measure $P$ from $Q$ is defined as
 
 \begin{align}
-D_{\alpha}(P||Q) &= \frac{1}{\alpha - 1}\ln{\int p(x)^{\alpha}q(x)^{1-\alpha}}dx \\\
+D_{\alpha}(P||Q) &= \frac{1}{\alpha - 1}\ln{\int p(x)^{\alpha}q(x)^{1-\alpha}}dx \\\\\\
                  &= \frac{1}{\alpha - 1}\ln{\mathbb{E}_q(p/q)^\alpha}.
 \end{align}
